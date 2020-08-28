@@ -1,0 +1,2 @@
+def smile():
+    return ":)"
